@@ -25,19 +25,19 @@ Various Azure API services.
 
 PotHole Detection : **Azure Function**
 
-ML Model to detect PotHoles : **Azure Custom vision API - Predictions
+ML Model to detect PotHoles : **Azure Custom vision API - Predictions**
 
-Data Annotation & Training of Modal : **Azure Custom vision API - Training
+Data Annotation & Training of Modal : **Azure Custom vision API - Training**
 
-API Host : **Azure deployment
+API Host : **Azure deployment**
 
-Database : **Azure SQL Server
+Database : **Azure SQL Server**
 
-Primary Host : **Azure Virtual Machine
+Primary Host : **Azure Virtual Machine**
 
-Data visualization : **Azure Power BI
+Data visualization : **Azure Power BI**
 
-Object recognition : **Python - OpenCV
+Object recognition : **Python - OpenCV**
 
 # FUTURE SCOPE :
 
