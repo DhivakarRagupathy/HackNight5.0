@@ -23,7 +23,7 @@ Various Azure API services.
 
 # Azure Services List :
 
-PotHole Detection : **Azure Function
+PotHole Detection : **Azure Function**
 
 ML Model to detect PotHoles : **Azure Custom vision API - Predictions
 
